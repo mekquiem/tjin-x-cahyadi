@@ -15,5 +15,4 @@ Download and unzip. Run whichever version of the script you need, depending on t
 4. Must have pickaxe equipped. 
 5. Select item to be farmed before running the program.
 6. Do not interfere with the program once it has started running except to disable it. The program will auto-farm 1000 items before it must be restarted.
-7. The top row of your inventory must be filled with blocks, not seeds.
-8. Try to position yourself facing left and slightly off-centre of a block, but this is not mandatory. May possibly cause some issues at higher levels of the loop if this is not done, though unlikely.
+7. Try to position yourself facing left and slightly off-centre of a block, but this is not mandatory. May possibly cause some issues at higher levels of the loop if this is not done, though unlikely.
