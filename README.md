@@ -11,10 +11,11 @@ Download and unzip. Run whichever version of the script you need, depending on t
 
 **Setup**
 
-1. Growtopia view must be fully zoomed in
-2. Inventory must be expanded so the adjuster is directly below your character's feet.
-3. Item to be farmed must be in the second inventory slot. 
-4. Must have pickaxe equipped. 
-5. Select item to be farmed before running the program.
-6. Do not interfere with the program once it has started running except to disable it. The program will auto-farm 1000 items before it must be restarted.
-7. Try to position yourself facing left and slightly off-centre of a block, but this is not mandatory. May possibly cause some issues at higher levels of the loop if this is not done, though unlikely.
+1. Give the program assistive access. System Preferences > Security and Privacy > Accessibility. Tick the box for tjin-x-cahyadi.
+2. Open Growtopia and login. Go to the world you will farm in. Growtopia view must be fully zoomed in.
+3. Inventory must be expanded so the adjuster is directly below your character's feet.
+4. Item to be farmed must be in the second inventory slot. 
+5. Must have pickaxe equipped. 
+6. Select item to be farmed before running the program.
+7. Do not interfere with the program once it has started running except to disable it. The program will auto-farm 1000 items before it must be restarted.
+8. Try to position yourself facing left and slightly off-centre of a block, but this is not mandatory. May possibly cause some issues at higher levels of the loop if this is not done, though unlikely.
