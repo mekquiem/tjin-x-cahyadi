@@ -1,5 +1,5 @@
 # tjin-x-cahyadi
-Growtopia farming automation script for Teng Tjin Yao. I am not responsible if you get banned for using this, but I'm pretty sure no one even plays Growtopia in 2017 so it probably won't matter. Only for macOS, not planning to release a Windows/Linux version. Confirmed to work on El Capitan, may not work for older versions. All versions require a pickaxe equipped. Also Tjin x Cahyadi is Tjin one-sided official canon.
+tjin-x-cahyadi is a Growtopia farming automation script for Teng Tjin Yao. I am not responsible if you get banned for using this, but I'm pretty sure no one even plays Growtopia in 2017 so it probably won't matter. **macOS exclusive**. Confirmed to work on El Capitan, may not work for older versions. All versions require a pickaxe equipped. Also Tjin x Cahyadi is Tjin one-sided official canon.
 
 # Getting started
 
@@ -16,3 +16,4 @@ Download and unzip. Run whichever version of the script you need, depending on t
 5. Select item to be farmed before running the program.
 6. Do not interfere with the program once it has started running except to disable it. The program will auto-farm 1000 items before it must be restarted.
 7. The top row of your inventory must be filled with blocks, not seeds.
+8. Try to position yourself facing left and slightly off-centre of a block, but this is not mandatory. May possibly cause some issues at higher levels of the loop if this is not done, though unlikely.
