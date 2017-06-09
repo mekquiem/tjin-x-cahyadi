@@ -1,3 +1,5 @@
+##### WARNING: A RANDOM ERROR MAY OCCUR WHERE GROWTOPIA SWITCHES YOUR EQUIPPED ITEM FOR SOMETHING ELSE IN YOUR INVENTORY. I DO NOT KNOW WHAT CAUSES THIS. IF THIS OCCURS, EXIT THE PROGRAM WITH CMD-OPTION-ESC. EMPTYING YOUR INVENTORY BEFOREHAND MAY HELP. THIS RELEASE IS CONSIDERED UNSTABLE UNTIL THIS IS SOLVED.
+
 # tjin-x-cahyadi
 tjin-x-cahyadi is a Growtopia farming automation script for Teng Tjin Yao. I am not responsible if you get banned for using this, but I'm pretty sure no one even plays Growtopia in 2017 so it probably won't matter. **macOS exclusive**. Confirmed to work on El Capitan, may not work for older versions. All versions require a pickaxe equipped. Script is designed to farm 400 items every run. Also Tjin x Cahyadi is Tjin one-sided official canon.
 
