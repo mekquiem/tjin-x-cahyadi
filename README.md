@@ -9,6 +9,8 @@ tjin-x-cahyadi is a Growtopia farming automation script for Teng Tjin Yao. I am 
 
 Download and unzip. Run whichever version of the script you need, depending on the number of hits it takes to destroy the item you're farming. Test it yourself if you're unsure. Running a different script will return sub-optimal results.
 
+If you get a warning saying you can't open the file because it's from an unidentified developer, rightclick the file and select Open. A different dialog box will open with the option to open it.
+
 **Setup**
 
 1. Give the program assistive access. System Preferences > Security and Privacy > Accessibility. Tick the box for tjin-x-cahyadi.
